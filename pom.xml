@@ -11,7 +11,7 @@
 	<groupId>com.tianyongwei</groupId>
 	<artifactId>SystemDesign</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>system_design</name>
+	<name>system-design</name>
 	<description>系统设计实践</description>
 
 	<properties>
